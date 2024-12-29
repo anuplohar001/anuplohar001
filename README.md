@@ -1,0 +1,7 @@
+- 👋 Hi, I’m ANUP LOHAR
+- 👀 I’m interested in FULL-STACK development, AI, and solving challenging problems in WEB and SOFTWARE development.  
+- 🌱 I’m currently learning advanced Data Structures and Algorithms, improving my proficiency in MERN Stack.  
+- 💞️ I’m looking to collaborate on innovative web development projects, AI applications, and open-source contributions.  
+- 📫 How to reach me: https://anuplohar001.github.io/portfolio
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy visualizing complex algorithms and turning ideas into functional and engaging web applications.  
